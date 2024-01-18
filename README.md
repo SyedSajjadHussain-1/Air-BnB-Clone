@@ -1,5 +1,3 @@
-**#Deployed App :**
-
 
 **#Outlook Of The App**
 
